@@ -3,10 +3,12 @@
 I work as a pentester and I like to spend a lot of my spare time reading, coding and playing CTFs. Studying physics sometime is my hobby too.
 
 <div align="center">
-    <a href="https://github.com/torsh4rk">
-      <img width="480px" src="https://github-readme-stats.vercel.app/api?username=torsh4rk&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/?username=torsh4rk&theme=chartreuse-dark" />
     </a>
-      <img width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torsh4rk&langs_count=8&layout=compact&theme=radical" />
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torsh4rk&theme=dracula" />
+    </a>
 </div>
 
 
