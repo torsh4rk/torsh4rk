@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work as a pentester and in my free time I like to have fun reading, coding, study physics and playing CTFs. 
+I work as a pentester and in my free time I like to have fun reading, coding, studying physics and playing CTFs. 
 
 ## Stats
 
@@ -15,10 +15,6 @@ I work as a pentester and in my free time I like to have fun reading, coding, st
   
 ## Contact
 
- <a href="https://hackthebox.eu/profile/102779">
-    <img src="https://img.shields.io/badge/@torsh4rk-black?style=square&logo=hackthebox">
-  </a>
-
    <a href="https://twitter.com/torsh4rk">
     <img src="https://img.shields.io/badge/@torsh4rk-grey.svg?style=square&logo=twitter">
   </a>
@@ -29,4 +25,12 @@ I work as a pentester and in my free time I like to have fun reading, coding, st
   
   <a href="https://www.instagram.com/torsh4rk">
     <img src="https://img.shields.io/badge/@torsh4rk-brown.svg?style=square&logo=instagram">
+  </a>
+
+   <a href="https://hackthebox.eu/profile/102779">
+    <img src="https://img.shields.io/badge/@torsh4rk-black?style=square&logo=hackthebox">
+  </a>
+
+  <a href="https://ctftime.org/team/147700">
+    <img src="https://img.shields.io/badge/torsh4rk_CTFtime-darkred?style=square&logo=ctftime">
   </a>
