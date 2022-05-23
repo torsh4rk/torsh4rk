@@ -2,15 +2,20 @@
 
 I work as a pentester and I like to spend a lot of my spare time reading, coding and playing CTFs. Studying physics sometime is my hobby too.
 
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/?username=torsh4rk&theme=chartreuse-dark" />
+<div align="middle">
+    <a href="https://github.com/torsh4rk">
+      <img style="max-width: 100%;" height="180em" src="https://github-readme-stats.vercel.app/api/?username=torsh4rk&theme=chartreuse-dark" />
     </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" width="420" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torsh4rk&layout=compact&theme=dracula" />
+    <a href="https://github.com/torsh4rk">
+      <img style="max-width: 100%;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torsh4rk&langs_count=10&layout=compact&theme=dracula" />
     </a>
 </div>
-
+<div style="display: inline_block"><br>
+    <img align="center" alt="torsh4rk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="torsh4rk-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="torsh4rk-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+</div>
+    
 
 ## Contact
 
