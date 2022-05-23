@@ -5,12 +5,13 @@ I work as a pentester and I like to spend a lot of my spare time reading, coding
 ## Stats
 
 <div>
-   <img src="https://github-readme-stats.vercel.app/api?username=torsh4rk&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" />
+   <img src="https://github-readme-stats.vercel.app/api?username=torsh4rk&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide=issues" />
 </div>
 
 ## Most used languages
+
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torsh4rk&langs_count=4&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torsh4rk&langs_count=8&layout=compact&theme=radical" />
   </div>
   
 ## Contact
