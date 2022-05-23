@@ -5,7 +5,7 @@ I work as a pentester and I like to spend a lot of my spare time reading, coding
 ## Stats
 
 <div>
-   <img src="https://github-readme-stats.vercel.app/api?username=torsh4rk&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide=issues" />
+   <img src="https://github-readme-stats.vercel.app/api?username=torsh4rk&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" />
 </div>
 
 ## Most used languages
