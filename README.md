@@ -7,7 +7,7 @@ I work as a pentester and I like to spend a lot of my spare time reading, coding
       <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/?username=torsh4rk&theme=chartreuse-dark" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torsh4rk&layout=compact&theme=dracula" />
+      <img align="center" width="420" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torsh4rk&layout=compact&theme=dracula" />
     </a>
 </div>
 
