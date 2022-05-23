@@ -29,7 +29,7 @@ I work as a pentester and I like to spend a lot of my spare time reading, coding
   </a>
 
    <a href="https://hackthebox.eu/profile/102779">
-    <img src="https://img.shields.io/badge/@torsh4rk-black?style=square&logo=hackthebox">
+    <img src="https://img.shields.io/badge/torsh4rk-black?style=square&logo=hackthebox">
   </a>
 
   <a href="https://ctftime.org/team/147700">
