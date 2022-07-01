@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I work as a pentester and I like to spend a lot of my spare time reading, coding and playing CTFs. Studying physics sometime is my hobby too.
+I work as a pentester and I like to spend a lot of my spare time reading, coding and playing CTFs.
 
 <div align="middle">
     <a href="https://github.com/torsh4rk">
