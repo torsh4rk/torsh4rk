@@ -28,5 +28,5 @@ I work as a pentester and I like to spend a lot of my spare time reading, coding
    <a href="https://www.instagram.com/torsh4rk"><img src="https://img.shields.io/badge/@torsh4rk-brown.svg?style=square&logo=instagram"></a>
    <a href="https://hackthebox.eu/profile/102779"><img src="https://img.shields.io/badge/torsh4rk-black?style=square&logo=hackthebox"></a>
    <a href="https://ctftime.org/team/147700"><img src="https://img.shields.io/badge/torsh4rk_CTFtime-darkred?style=square&logo=ctftime" ></a>
-   <a href="https://discord.com/users/587620229010554901/"><img src="https://img.shields.io/badge/@torsh4rk-grey.svg?style=square&logo=discord"></a>
+   <a href="https://discord.com/users/587620229010554901"><img src="https://img.shields.io/badge/@torsh4rk-grey.svg?style=square&logo=discord"></a>
 </div>
