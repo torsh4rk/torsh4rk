@@ -5,7 +5,7 @@ I work as a pentester and I like to spend a lot of my spare time reading, coding
 <div align="center">
     <a href="https://github.com/torsh4rk">
       <img style="max-width: 100%;" height="180em" src="https://github-readme-stats.vercel.app/api/?username=torsh4rk&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true" />
-      <img style="max-width: 100%;" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torsh4rk&layout=compact&langs_count=7&theme=dracula" />
+      <img style="max-width: 100%;" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torsh4rk&layout=compact&langs_count=7&theme=dracula" />
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="torsh4rk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
