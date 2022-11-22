@@ -8,8 +8,8 @@ I work as a pentester and I like to spend a lot of my spare time reading, coding
       <img style="max-width: 100%;" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torsh4rk&layout=compact&langs_count=7&theme=dracula" />
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="torsh4rk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="torsh4rk-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+    <img align="center" alt="torsh4rk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="torsh4rk-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
     <img align="center" alt="torsh4rk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="torsh4rk-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
